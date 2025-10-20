@@ -1,4 +1,3 @@
-```markdown
 # Apache Setup
 
 1. Install Apache: `sudo dnf install -y httpd`
@@ -7,4 +6,3 @@
 4. Test in browser: `http://<your-ec2-ip>`
 
 _Screenshot placeholder: screenshots/apache-test.png_
-```

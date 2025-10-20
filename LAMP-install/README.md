@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Flashcard App (LAMP Stack on AWS)
 
 > Main guide and links to setup sub-docs for Apache, PHP, MariaDB, and the quiz app.
@@ -26,4 +25,7 @@ _Team scoring, multiple quizzes, HTTPS, frontend dashboard._
 ## Screenshots
 
 Place screenshot images in `/screenshots` and reference them here.
+
+```
+
 ```

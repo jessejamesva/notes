@@ -1,4 +1,3 @@
-````markdown
 # Quiz App Setup
 
 1. Create database and user:
@@ -9,7 +8,6 @@ CREATE USER 'quizuser'@'localhost' IDENTIFIED BY 'StrongPassword123!';
 GRANT ALL PRIVILEGES ON quizgame_db.* TO 'quizuser'@'localhost';
 FLUSH PRIVILEGES;
 ```
-````
 
 2. Create tables:
 
@@ -51,7 +49,3 @@ $conn->close();
 ```
 
 _Screenshot placeholder: screenshots/dbtest-success.png_
-
-```
-
-```
